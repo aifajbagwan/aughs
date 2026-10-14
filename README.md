@@ -28,7 +28,7 @@ A full-featured, responsive PHP clone of [aughs.org](https://aughs.org/) built f
 | **About Us** | `about-us.php` | Overview of AUGHS, M.C.E. Society history, academic pillars |
 | ↳ *Our Philosophy* | `our-philosophy.php` | Educational philosophy, commitments, and core values |
 | ↳ *Mission & Vision* | `mission-vission.php` | 21st-century holistic development and joyful learning |
-| ↳ *President Message* | `president-message.php` | Address by Hon’ble Dr. P.A. Inamdar with original portrait |
+| ↳ *President Message* | `president-message.php` | Address by MRS. ABEDA INAMDAR with portrait |
 | ↳ *Principal Message* | `principal-message.php` | Address by Mrs. Roshan Ara Shaikh with original portrait |
 | **Admission** | `admission.php` | 3-Step admission process, document checklist, Google Form link |
 | **Activities** | `activities.php` | Art contest, National IT Olympiad, Rifle Shooting, Flower arrangement, R.S.P. Troop |

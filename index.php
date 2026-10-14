@@ -118,7 +118,7 @@ include __DIR__ . '/includes/header.php';
             <div class="message-card-body">
                 <div class="quote-icon"><i class="fa-solid fa-quote-left"></i></div>
                 <p>
-                    It gives me enormous pride and pleasure to witness and applaud the collaborative efforts of our teachers and students. M.C.E. Society’s Anglo Urdu Girls’ High School is indeed blessed and fortunate to receive constant support and cooperation from Dr. P. A. Inamdar (President M.C.E. Society) and Mrs. Abeda P. Inamdar (Vice President M.C.E. Society), Chairman and members of the school committee in all our endeavors.
+                    It gives me enormous pride and pleasure to witness and applaud the collaborative efforts of our teachers and students. M.C.E. Society’s Anglo Urdu Girls’ High School is indeed blessed and fortunate to receive constant support and cooperation from <strong>MRS. ABEDA INAMDAR</strong> (President, M.C.E. Society), Chairman and members of the school committee in all our endeavors.
                 </p>
                 <p>
                     Academic excellence with character and all-around personality development are the core elements of education imparted in this school. We have the timely realization that the creative domains of the students should be provided a suitable environment...
@@ -167,8 +167,8 @@ include __DIR__ . '/includes/header.php';
                 </a>
             </div>
             <div class="message-card-img" style="background-color: var(--primary);">
-                <img src="<?= url('wp-content/uploads/2021/02/inamdar-sir.jpg') ?>" alt="Dr. P. A. Inamdar" class="leader-portrait">
-                <h3 class="leader-name">Hon'ble Dr. P.A. Inamdar</h3>
+                <img src="<?= url('wp-content/uploads/2021/02/abeda-inamdar.jpg') ?>" alt="MRS. ABEDA INAMDAR" class="leader-portrait">
+                <h3 class="leader-name">MRS. ABEDA INAMDAR</h3>
                 <span class="leader-role">President, M.C.E. Society</span>
             </div>
         </div>

@@ -19,7 +19,7 @@ include __DIR__ . '/includes/page-banner.php';
             <div class="message-card-split" style="margin-bottom: 30px;">
                 <div class="message-card-img" style="background-color: var(--primary-dark);">
                     <img src="<?= url('wp-content/uploads/2023/09/roshan-ara-mam-crop.jpg') ?>" alt="Mrs. Roshan Ara Shaikh" class="leader-portrait">
-                    <h3 class="leader-name">Mrs. Roshan Ara Shaikh</h3>
+                    <h3 class="leader-name" style="color: #ffffff !important; margin: 8px 0 4px 0;">Mrs. Roshan Ara Shaikh</h3>
                     <span class="leader-role">Principal, AUGHS</span>
                     <span style="font-size: 0.85rem; color: #cbd5e1; margin-top: 4px;">M.A. B.Ed.</span>
                 </div>
@@ -29,7 +29,7 @@ include __DIR__ . '/includes/page-banner.php';
 
                     <div class="quote-icon"><i class="fa-solid fa-quote-left"></i></div>
                     <p style="font-size: 1.08rem; line-height: 1.85;">
-                        It gives me enormous pride and pleasure to witness and applaud the collaborative efforts of our teachers and students. M.C.E. Society’s Anglo Urdu Girls’ High School is indeed blessed and fortunate to receive constant support and cooperation from <strong>Dr. P. A. Inamdar</strong> (President M.C.E. Society) and <strong>Mrs. Abeda P. Inamdar</strong> (Vice President M.C.E. Society), Chairman, and members of the school committee in all our endeavors.
+                        It gives me enormous pride and pleasure to witness and applaud the collaborative efforts of our teachers and students. M.C.E. Society’s Anglo Urdu Girls’ High School is indeed blessed and fortunate to receive constant support and cooperation from <strong>MRS. ABEDA INAMDAR</strong> (President, M.C.E. Society), Chairman, and members of the school committee in all our endeavors.
                     </p>
                 </div>
             </div>

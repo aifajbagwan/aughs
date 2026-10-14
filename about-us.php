@@ -32,7 +32,7 @@ include __DIR__ . '/includes/page-banner.php';
                 <div style="background:var(--bg-alt); padding:24px; border-radius:var(--radius-md); border-left:4px solid var(--primary);">
                     <h3 style="margin-top:0; color:var(--primary);"><i class="fa-solid fa-building-columns"></i> M.C.E. Society's Stewardship</h3>
                     <p style="font-size:0.95rem; margin-bottom:0;">
-                        Founded with the vision of educational upliftment, M.C.E. Society manages over 30 educational institutions on Azam Campus under the dynamic leadership of <strong>Hon'ble Dr. P.A. Inamdar</strong> (President) and <strong>Mrs. Abeda P. Inamdar</strong> (Vice President). Their unwavering support provides AUGHS students with world-class infrastructure, digital libraries, and sports academies.
+                        Founded with the vision of educational upliftment, M.C.E. Society manages over 30 educational institutions on Azam Campus under the dynamic leadership of <strong>MRS. ABEDA INAMDAR</strong> (President). Their unwavering support provides AUGHS students with world-class infrastructure, digital libraries, and sports academies.
                     </p>
                 </div>
                 <div style="background:var(--bg-alt); padding:24px; border-radius:var(--radius-md); border-left:4px solid var(--secondary);">
@@ -66,7 +66,7 @@ include __DIR__ . '/includes/page-banner.php';
                 <div class="card-item">
                     <div class="card-body">
                         <h4 style="color:var(--primary); margin-bottom:8px;"><i class="fa-solid fa-user-tie" style="color:var(--accent);"></i> President Message</h4>
-                        <p class="card-text">Inspiring words of wisdom from Hon'ble Dr. P.A. Inamdar, President of M.C.E. Society.</p>
+                        <p class="card-text">Inspiring words of wisdom from MRS. ABEDA INAMDAR, President of M.C.E. Society.</p>
                         <a href="<?= url('president-message.php') ?>" class="card-footer-link">Read Address <i class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>

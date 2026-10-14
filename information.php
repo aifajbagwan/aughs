@@ -12,21 +12,20 @@ $breadcrumbs = [
 include __DIR__ . '/includes/page-banner.php';
 
 $governingBoard = [
-    [1, "Hon’ble Dr. P.A. Inamdar", "President"],
-    [2, "Mrs. Abeda P.A. Inamdar", "Vice President"],
-    [3, "Mr. Latif Magdum", "Secretary"],
-    [4, "Prof. Shaikh Muzaffar", "Treasurer"],
-    [5, "Mr. Irfan J. Shaikh", "Joint Secretary"],
-    [6, "Mr. Haji A.Q. Qureshi", "Joint Secretary"],
-    [7, "Mr. Majeed U. Dawood", "Member"],
-    [8, "Mr. S. A. Inamdar", "Member"],
-    [9, "Adv. Shaikh M. Hanif", "Member"],
-    [10, "Mr. Badruddin I. Shaikh", "Member"],
-    [11, "Mr. Abbas Ismail Shaikh", "Member"],
-    [12, "Mr. Mashkur Ahmed Shaikh", "Member"],
-    [13, "Dr. Mumtaz Peerbhoy", "Member"],
-    [14, "Adv. Iftekhar P. Inamdar", "Member"],
-    [15, "Mr. S.U. Patel", "Member"]
+    [1, "MRS. ABEDA INAMDAR", "President"],
+    [2, "Mr. Latif Magdum", "Secretary"],
+    [3, "Prof. Shaikh Muzaffar", "Treasurer"],
+    [4, "Mr. Irfan J. Shaikh", "Joint Secretary"],
+    [5, "Mr. Haji A.Q. Qureshi", "Joint Secretary"],
+    [6, "Mr. Majeed U. Dawood", "Member"],
+    [7, "Mr. S. A. Inamdar", "Member"],
+    [8, "Adv. Shaikh M. Hanif", "Member"],
+    [9, "Mr. Badruddin I. Shaikh", "Member"],
+    [10, "Mr. Abbas Ismail Shaikh", "Member"],
+    [11, "Mr. Mashkur Ahmed Shaikh", "Member"],
+    [12, "Dr. Mumtaz Peerbhoy", "Member"],
+    [13, "Adv. Iftekhar P. Inamdar", "Member"],
+    [14, "Mr. S.U. Patel", "Member"]
 ];
 
 $schoolCommittee = [

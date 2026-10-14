@@ -119,7 +119,7 @@ include __DIR__ . '/includes/page-banner.php';
                         <span class="faculty-badge">Discipline &amp; Marching</span>
                         <h3 style="color: var(--primary); margin-bottom: 10px;">R.S.P. Troop Selected Among Top Ten Platoons</h3>
                         <p style="color: var(--text-muted); font-size: 0.95rem; margin-bottom: 12px;">
-                            The Road Safety Patrol (R.S.P.) Troop posed with <strong>Mrs. Abeda Inamdar</strong> (Vice President, M.C.E. Society), <strong>Principal Mrs. Ayesha Shaikh</strong>, and in-charge Teacher <strong>Mrs. Afzala Khan</strong>.
+                            The Road Safety Patrol (R.S.P.) Troop posed with <strong>MRS. ABEDA INAMDAR</strong> (President, M.C.E. Society), <strong>Principal Mrs. Ayesha Shaikh</strong>, and in-charge Teacher <strong>Mrs. Afzala Khan</strong>.
                         </p>
                         <div class="callout-box" style="margin: 0; padding: 12px 18px;">
                             <i class="fa-solid fa-medal" style="color:var(--accent);"></i> Awarded with a prestigious Memento and Certificates for <strong>Selection in the Top Ten Platoons out of 100 Schools</strong> across the region.
