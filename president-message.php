@@ -18,7 +18,7 @@ include __DIR__ . '/includes/page-banner.php';
         <div class="content-box">
             <div class="message-card-split" style="margin-bottom: 30px;">
                 <div class="message-card-img" style="background-color: var(--primary);">
-                    <img src="<?= url('wp-content/uploads/2021/02/abeda-inamdar.jpg') ?>" alt="MRS. ABEDA INAMDAR" class="leader-portrait">
+                    <img src="<?= url('wp-content/uploads/2021/02/abeda-inamdar.jpg?v=' . filemtime(__DIR__ . '/wp-content/uploads/2021/02/abeda-inamdar.jpg')) ?>" alt="MRS. ABEDA INAMDAR" class="leader-portrait">
                     <h3 class="leader-name" style="color: #ffffff !important; margin: 8px 0 4px 0;">MRS. ABEDA INAMDAR</h3>
                     <span class="leader-role">President, M.C.E. Society</span>
                     <span style="font-size: 0.82rem; color: #cbd5e1; margin-top: 4px;">Visionary Leader &amp; Educationist</span>

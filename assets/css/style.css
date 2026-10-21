@@ -692,6 +692,7 @@ h1, h2, h3, h4, h5, h6 {
     height: 200px;
     border-radius: 50%;
     object-fit: cover;
+    object-position: center center;
     border: 5px solid rgba(255, 255, 255, 0.3);
     box-shadow: var(--shadow-md);
     margin-bottom: 16px;

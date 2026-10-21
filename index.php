@@ -167,7 +167,7 @@ include __DIR__ . '/includes/header.php';
                 </a>
             </div>
             <div class="message-card-img" style="background-color: var(--primary);">
-                <img src="<?= url('wp-content/uploads/2021/02/abeda-inamdar.jpg') ?>" alt="MRS. ABEDA INAMDAR" class="leader-portrait">
+                <img src="<?= url('wp-content/uploads/2021/02/abeda-inamdar.jpg?v=' . filemtime(__DIR__ . '/wp-content/uploads/2021/02/abeda-inamdar.jpg')) ?>" alt="MRS. ABEDA INAMDAR" class="leader-portrait">
                 <h3 class="leader-name">MRS. ABEDA INAMDAR</h3>
                 <span class="leader-role">President, M.C.E. Society</span>
             </div>
